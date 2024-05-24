@@ -14,6 +14,7 @@ public class SpawnManagerX : MonoBehaviour
     private float minspawnInterval = 3.0f; 
     private float maxspawnInterval = 5.0f; 
 
+
     // Start is called before the first frame update
     void Start()
     {
